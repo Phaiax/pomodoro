@@ -1,0 +1,9 @@
+D:\code\parsecsv\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+D:\code\parsecsv\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\code\parsecsv\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\code\parsecsv\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\code\parsecsv\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\code\parsecsv\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\code\parsecsv\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\code\parsecsv\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+D:\code\parsecsv\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
